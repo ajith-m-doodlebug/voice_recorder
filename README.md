@@ -9,8 +9,8 @@ The Voice Recorder app features three main screens, each with its own set of fun
 
 ### 1. Recorder
 
-![](https://github.com/user-attachments/assets/5983171f-fcc2-4075-9fd1-bf66a3eac61c)
 ![](https://github.com/user-attachments/assets/360227f8-8ba4-406d-a4d1-943b9f7f10bd)
+![](https://github.com/user-attachments/assets/5983171f-fcc2-4075-9fd1-bf66a3eac61c)
 ![](https://github.com/user-attachments/assets/8421d5ca-d582-4411-a517-586df1ba29e0)
 ![](https://github.com/user-attachments/assets/b23c6022-2f51-4697-94f3-d81e953c78d9)
 
@@ -36,6 +36,7 @@ The **Player** screen offers playback functionality and detailed statistics:
 ### 3. Settings
 
 ![](https://github.com/user-attachments/assets/16806132-2a97-42c2-9acd-cf831fffbc0f)
+![](https://github.com/user-attachments/assets/33c19ce7-4e2f-4ae4-a2c5-e5a52d085357)
 
 The **Settings** screen allows users to customize their app experience with the following options:
 - **General Settings**:
