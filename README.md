@@ -48,7 +48,9 @@ The **Settings** screen allows users to customize their app experience with the 
   - **File Name Prompt**: Decide whether to prompt for a file name when saving recordings (Yes/No).
 
 
+## Recording
 
+![](https://github.com/user-attachments/assets/9a7fa634-87cc-43ac-81fb-7e0263b1968f)
 
 ## Getting Started
 
