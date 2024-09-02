@@ -120,9 +120,7 @@ class PlayerItem extends StatelessWidget {
                     color: primaryRedColor,
                     size: 25,
                   ),
-                  onPressed: () {
-                    ShareService().shareText(file.path);
-                  },
+                  onPressed: () {},
                 ),
               ],
             ),
