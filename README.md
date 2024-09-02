@@ -9,7 +9,8 @@ The Voice Recorder app features three main screens, each with its own set of fun
 
 ### 1. Recorder
 
-![Recorder Screen](path/to/recorder-image.png)
+![](https://github.com/user-attachments/assets/360227f8-8ba4-406d-a4d1-943b9f7f10bd)
+![](https://github.com/user-attachments/assets/8421d5ca-d582-4411-a517-586df1ba29e0)
 
 The **Recorder** screen is designed for capturing audio with various controls and features:
 - **Pause and Stop**: Allows users to pause and stop recordings as needed.
@@ -19,7 +20,7 @@ The **Recorder** screen is designed for capturing audio with various controls an
 
 ### 2. Player
 
-![Player Screen](path/to/player-image.png)
+![](https://github.com/user-attachments/assets/512a2655-60c1-4c21-a370-6672466af4fb)
 
 The **Player** screen offers playback functionality and detailed statistics:
 - **Stats Overview**: Displays important information such as:
@@ -30,7 +31,7 @@ The **Player** screen offers playback functionality and detailed statistics:
 
 ### 3. Settings
 
-![Settings Screen](path/to/settings-image.png)
+![](https://github.com/user-attachments/assets/16806132-2a97-42c2-9acd-cf831fffbc0f)
 
 The **Settings** screen allows users to customize their app experience with the following options:
 - **General Settings**:
