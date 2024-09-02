@@ -3,6 +3,14 @@
 
 A versatile voice recording application built with Flutter. This app enables users to record audio in three different formats, save recordings, and play them back with ease. The user-friendly interface with unique colors and fonts, and visually centers waveform displays for a better experience.
 
+## App Logo
+
+![app_logo](https://github.com/user-attachments/assets/bb3856e8-c7aa-4aba-a74b-77bb9edd6110)
+
+## App Logo in Mobile Home Screen
+
+![](https://github.com/user-attachments/assets/c3e784ff-350d-466d-8b05-871a5a403c9a)
+
 ## Features
 
 The Voice Recorder app features three main screens, each with its own set of functionalities:
